@@ -1,0 +1,90 @@
+#Principal
+{
+	background-color:gray;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	
+}
+#caja1
+{
+	background-color:blueviolet;
+	width:200px;
+	height:200px;
+	position:absolute;
+	left:50px;
+	
+}
+#caja2
+{
+	background-color:pink;
+	width:200px;
+	height:200px;
+	position:relative;
+	left:100px;
+	top:200px;
+	display:foline-block;
+	display:flex;
+	
+}
+#caja3
+{
+	background-color:red;
+	width:200px;
+	height:200px;
+	position:fixed;
+	top:250px;
+	display:foline-block;
+	
+}
+#caja4
+{
+	background-color:blue;
+	width:200px;
+	height:200px;
+	position:sticky;
+	left:250px;
+	
+}
+#caja1-1
+{
+	background-color:green;
+	width:100px;
+	height:100px;
+	position:relative;
+	left:30px;
+	top:30px;
+	transform:rotate(45deg);
+}
+#caja2-1
+{
+	background-color:green;
+	width:100px;
+	height:100px;
+	position:relative;
+	left:30px;
+	top:30px;
+	transform:rotate(45deg);
+}
+#caja3-1
+{
+	background-color:green;
+	width:100px;
+	height:100px;
+	position:relative;
+	left:30px;
+	top:30px;
+	transform:rotate(45deg);
+}
+#caja4-1
+{
+	background-color:green;
+	width:100px;
+	height:100px;
+	position:relative;
+	left:30px;
+	top:30px;
+	transform:rotate(45deg);
+}
+	
+		
